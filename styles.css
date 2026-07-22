@@ -1,0 +1,12 @@
+header nav ul {
+    list-style-type:none;
+    padding: 0;
+    margin : 0 ; 
+}
+header nav li {display:inline-block;
+                margin-right:15px;}
+
+article hr{ border:none;
+            border-top: 1px dashed #312526;}
+
+hr{border-width: 2px;}
