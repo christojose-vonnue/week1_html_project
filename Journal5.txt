@@ -1,0 +1,61 @@
+Day 5
+---------------------------------------------------------------------------------------------------------------------
+
+Reading and learning from : https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL
+
+URL is the address of a resource in internet.
+
+https://www.example.com:80/path/to/file.html?key1=value1&key2=value2#SomewhereInthedocument
+
+If url is a post mail
+https           --> Scheme      --> which postal service you want to use
+www.example.com --> Domain Name --> The city you want to reach
+80              --> Port No.    --> The pincode
+path/to/file.html-> Path Name   --> Building number
+key1=value1&..  --> Parameters  --> Room m=no. (extra information)
+#Some...        --> Anchor      --> Actual person
+
+Scheme : Example http, https ,mailto (followed by : ), It defines the protocols to transfer the files across internet
+Authority : Actual domain name preceeding by // , It will be converted to an IP address
+Port No. : technical gate used to access resources on web server
+Parameters : key-value pair seperated by & , custom used by the server
+Anchor :Fragment identifier , a specific location / resource in a webpage, (we cannot pass this in the search engine)
+
+Absolute vs Relative path
+
+In absolute path , the resource need not be referenced from any webpage, but from the root directory 
+IN relative path , the resource is refernced from a the document, it reuses the existing information and changes whats only neccessary
+    Scheme relative url (Scheme is same)
+    Domain relative url (Scheme & Domain is same)
+    Sub-resourcesGoing back to tree (..)
+    Anchor only, goes to a different section
+
+Moving to task 1 ...
+
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+
+Refered https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+and https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
+to create and clone required repositories
+First commit is made as git commit -m "chore: scaffold five-page projrct"
+
+Moving to task 2 ...
+
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+
+Upto 5 tasks are completed
+All tasks were an application of this weeks application
+
+Pages visited :
+For some styling of text area : https://www.w3schools.com/css/tryit.asp?filename=trycss_form_textarea
+Visited google maps and added an <iframe> tag as an embeded element
+
+Moving to Task 6
+
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+
+
