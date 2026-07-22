@@ -58,4 +58,36 @@ Moving to Task 6
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
 
+Added all Requirements as per Guidelines.
+Updated README.md
 
+Visit a pod partner's site and report one thing you notice.
+
+1. He had a button for hero section
+2. His images had a higher border radius making the image cropped as a circle
+
+Succesfully deployed, Task is completed
+
+END-OF-DAY SELF-CHECK - TICK EVERY BOX BEFORE YOU LOG OFF:
+□​ All five pages are cross-linked and open without 404 errors
+□​ All five pages pass W3C validation with zero errors
+□​ All five pages score 90+ on Lighthouse Accessibility
+□​ Every image has a meaningful alt attribute
+□​ Every form control has a programmatic label
+□​ The project is live on GitHub Pages
+□​ The README is clear enough for someone who wasn't in the room to understand the project
+
+All these concepts are clear!!
+Completed reading the only one resource.. and applied all weeks knowledge
+
+Deployed link : https://christojose-vonnue.github.io/week1_html_project/
+
+DAILY JOURNAL - WRITE YOUR ANSWERS IN YOUR LEARNING JOURNAL:
+•​ Which page was hardest to build and why?
+All pages were relatively easy thanks to all weeks task (~15 previous tasks)
+
+•​ What would you do differently on this project if you rebuilt it next week?
+Adding better responsive UI and styles along with Javascript for better functionalities.
+
+•​ What is one thing you want to look up more deeply tomorrow?
+Making the website with better UI/UX..
